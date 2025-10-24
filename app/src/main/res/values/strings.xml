@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OMDbMovieBrowser</string>
+    <string name="search_hint">Пошук фільмів...</string>
+    <string name="movies">Фільми</string>
+    <string name="favorites">Обране</string>
+    <string name="no_favorites">Немає обраних фільмів</string>
+    <string name="error_loading">Помилка завантаження</string>
+    <string name="add_to_favorites">Додати до обраного</string>
+    <string name="remove_from_favorites">Видалити з обраного</string>
+</resources>
